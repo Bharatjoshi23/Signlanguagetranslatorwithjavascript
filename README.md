@@ -16,7 +16,7 @@ Using TensorFlow to translate Sign Language in real-time. **_Final Release_**
 - [x] Simple User Interface
 - [x] Comprehensive Commenting
 
-## Live Sign Translator on https://bit.ly/2CwPvgP
+
 
 ## To Run locally 
 Open `index.html` in Chrome.<br/>
