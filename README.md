@@ -22,7 +22,7 @@ The Sign Language Translator is my final project for Grade 12 Computer Science a
 Open `index.html` in Chrome.<br/>
 *NOTE:* This will disable video call functionality.
 
-## To Run on http://localhost:9966/
+## To Run on http://localhost:9966/Hello
 ```
 npm install
 npm start
